@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\Calculadorafactorial\Calculadorafactorial\bin\Debug\Calculadorafactorial.exe.config
+C:\Users\User\Desktop\Practica1\Calculadorafactorial\Calculadorafactorial\bin\Debug\Calculadorafactorial.exe
+C:\Users\User\Desktop\Practica1\Calculadorafactorial\Calculadorafactorial\bin\Debug\Calculadorafactorial.pdb
+C:\Users\User\Desktop\Practica1\Calculadorafactorial\Calculadorafactorial\obj\Debug\Calculadorafactorial.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\Calculadorafactorial\Calculadorafactorial\obj\Debug\Calculadorafactorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\Calculadorafactorial\Calculadorafactorial\obj\Debug\Calculadorafactorial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\Calculadorafactorial\Calculadorafactorial\obj\Debug\Calculadorafactorial.exe
+C:\Users\User\Desktop\Practica1\Calculadorafactorial\Calculadorafactorial\obj\Debug\Calculadorafactorial.pdb
