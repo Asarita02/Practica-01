@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\Calculadoradevolumen\Calculadoradevolumen\bin\Debug\Calculadoradevolumen.exe.config
+C:\Users\User\Desktop\Practica1\Calculadoradevolumen\Calculadoradevolumen\bin\Debug\Calculadoradevolumen.exe
+C:\Users\User\Desktop\Practica1\Calculadoradevolumen\Calculadoradevolumen\bin\Debug\Calculadoradevolumen.pdb
+C:\Users\User\Desktop\Practica1\Calculadoradevolumen\Calculadoradevolumen\obj\Debug\Calculadoradevolumen.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\Calculadoradevolumen\Calculadoradevolumen\obj\Debug\Calculadoradevolumen.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\Calculadoradevolumen\Calculadoradevolumen\obj\Debug\Calculadoradevolumen.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\Calculadoradevolumen\Calculadoradevolumen\obj\Debug\Calculadoradevolumen.exe
+C:\Users\User\Desktop\Practica1\Calculadoradevolumen\Calculadoradevolumen\obj\Debug\Calculadoradevolumen.pdb
