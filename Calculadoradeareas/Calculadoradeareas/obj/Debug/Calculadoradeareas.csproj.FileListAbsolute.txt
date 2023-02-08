@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\Calculadoradeareas\Calculadoradeareas\bin\Debug\Calculadoradeareas.exe.config
+C:\Users\User\Desktop\Practica1\Calculadoradeareas\Calculadoradeareas\bin\Debug\Calculadoradeareas.exe
+C:\Users\User\Desktop\Practica1\Calculadoradeareas\Calculadoradeareas\bin\Debug\Calculadoradeareas.pdb
+C:\Users\User\Desktop\Practica1\Calculadoradeareas\Calculadoradeareas\obj\Debug\Calculadoradeareas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\Calculadoradeareas\Calculadoradeareas\obj\Debug\Calculadoradeareas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\Calculadoradeareas\Calculadoradeareas\obj\Debug\Calculadoradeareas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\Calculadoradeareas\Calculadoradeareas\obj\Debug\Calculadoradeareas.exe
+C:\Users\User\Desktop\Practica1\Calculadoradeareas\Calculadoradeareas\obj\Debug\Calculadoradeareas.pdb
