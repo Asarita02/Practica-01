@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\Salarios\Salarios\bin\Debug\Salarios.exe.config
+C:\Users\User\Desktop\Practica1\Salarios\Salarios\bin\Debug\Salarios.exe
+C:\Users\User\Desktop\Practica1\Salarios\Salarios\bin\Debug\Salarios.pdb
+C:\Users\User\Desktop\Practica1\Salarios\Salarios\obj\Debug\Salarios.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\Salarios\Salarios\obj\Debug\Salarios.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\Salarios\Salarios\obj\Debug\Salarios.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\Salarios\Salarios\obj\Debug\Salarios.exe
+C:\Users\User\Desktop\Practica1\Salarios\Salarios\obj\Debug\Salarios.pdb
