@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\Permutaciones\Permutaciones\bin\Debug\Permutaciones.exe.config
+C:\Users\User\Desktop\Practica1\Permutaciones\Permutaciones\bin\Debug\Permutaciones.exe
+C:\Users\User\Desktop\Practica1\Permutaciones\Permutaciones\bin\Debug\Permutaciones.pdb
+C:\Users\User\Desktop\Practica1\Permutaciones\Permutaciones\obj\Debug\Permutaciones.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\Permutaciones\Permutaciones\obj\Debug\Permutaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\Permutaciones\Permutaciones\obj\Debug\Permutaciones.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\Permutaciones\Permutaciones\obj\Debug\Permutaciones.exe
+C:\Users\User\Desktop\Practica1\Permutaciones\Permutaciones\obj\Debug\Permutaciones.pdb
