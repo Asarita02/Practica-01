@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\Calculadoradeecuaciones\Calculadoradeecuaciones\bin\Debug\Calculadoradeecuaciones.exe.config
+C:\Users\User\Desktop\Practica1\Calculadoradeecuaciones\Calculadoradeecuaciones\bin\Debug\Calculadoradeecuaciones.exe
+C:\Users\User\Desktop\Practica1\Calculadoradeecuaciones\Calculadoradeecuaciones\bin\Debug\Calculadoradeecuaciones.pdb
+C:\Users\User\Desktop\Practica1\Calculadoradeecuaciones\Calculadoradeecuaciones\obj\Debug\Calculadoradeecuaciones.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\Calculadoradeecuaciones\Calculadoradeecuaciones\obj\Debug\Calculadoradeecuaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\Calculadoradeecuaciones\Calculadoradeecuaciones\obj\Debug\Calculadoradeecuaciones.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\Calculadoradeecuaciones\Calculadoradeecuaciones\obj\Debug\Calculadoradeecuaciones.exe
+C:\Users\User\Desktop\Practica1\Calculadoradeecuaciones\Calculadoradeecuaciones\obj\Debug\Calculadoradeecuaciones.pdb
