@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\SerieFibonacci\SerieFibonacci\bin\Debug\SerieFibonacci.exe.config
+C:\Users\User\Desktop\Practica1\SerieFibonacci\SerieFibonacci\bin\Debug\SerieFibonacci.exe
+C:\Users\User\Desktop\Practica1\SerieFibonacci\SerieFibonacci\bin\Debug\SerieFibonacci.pdb
+C:\Users\User\Desktop\Practica1\SerieFibonacci\SerieFibonacci\obj\Debug\SerieFibonacci.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\SerieFibonacci\SerieFibonacci\obj\Debug\SerieFibonacci.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\SerieFibonacci\SerieFibonacci\obj\Debug\SerieFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\SerieFibonacci\SerieFibonacci\obj\Debug\SerieFibonacci.exe
+C:\Users\User\Desktop\Practica1\SerieFibonacci\SerieFibonacci\obj\Debug\SerieFibonacci.pdb
