@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\Calculadoradeoperacionesmats\Calculadoradeoperacionesmats\bin\Debug\Calculadoradeoperacionesmats.exe.config
+C:\Users\User\Desktop\Practica1\Calculadoradeoperacionesmats\Calculadoradeoperacionesmats\bin\Debug\Calculadoradeoperacionesmats.exe
+C:\Users\User\Desktop\Practica1\Calculadoradeoperacionesmats\Calculadoradeoperacionesmats\bin\Debug\Calculadoradeoperacionesmats.pdb
+C:\Users\User\Desktop\Practica1\Calculadoradeoperacionesmats\Calculadoradeoperacionesmats\obj\Debug\Calculadoradeoperacionesmats.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\Calculadoradeoperacionesmats\Calculadoradeoperacionesmats\obj\Debug\Calculadoradeoperacionesmats.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\Calculadoradeoperacionesmats\Calculadoradeoperacionesmats\obj\Debug\Calculadoradeoperacionesmats.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\Calculadoradeoperacionesmats\Calculadoradeoperacionesmats\obj\Debug\Calculadoradeoperacionesmats.exe
+C:\Users\User\Desktop\Practica1\Calculadoradeoperacionesmats\Calculadoradeoperacionesmats\obj\Debug\Calculadoradeoperacionesmats.pdb
