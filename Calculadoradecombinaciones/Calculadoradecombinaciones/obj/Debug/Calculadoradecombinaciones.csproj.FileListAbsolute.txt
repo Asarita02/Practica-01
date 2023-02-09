@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\Calculadoradecombinaciones\Calculadoradecombinaciones\bin\Debug\Calculadoradecombinaciones.exe.config
+C:\Users\User\Desktop\Practica1\Calculadoradecombinaciones\Calculadoradecombinaciones\bin\Debug\Calculadoradecombinaciones.exe
+C:\Users\User\Desktop\Practica1\Calculadoradecombinaciones\Calculadoradecombinaciones\bin\Debug\Calculadoradecombinaciones.pdb
+C:\Users\User\Desktop\Practica1\Calculadoradecombinaciones\Calculadoradecombinaciones\obj\Debug\Calculadoradecombinaciones.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\Calculadoradecombinaciones\Calculadoradecombinaciones\obj\Debug\Calculadoradecombinaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\Calculadoradecombinaciones\Calculadoradecombinaciones\obj\Debug\Calculadoradecombinaciones.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\Calculadoradecombinaciones\Calculadoradecombinaciones\obj\Debug\Calculadoradecombinaciones.exe
+C:\Users\User\Desktop\Practica1\Calculadoradecombinaciones\Calculadoradecombinaciones\obj\Debug\Calculadoradecombinaciones.pdb
