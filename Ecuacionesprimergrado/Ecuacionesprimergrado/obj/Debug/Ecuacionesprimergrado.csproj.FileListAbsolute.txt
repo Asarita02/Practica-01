@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\Ecuacionesprimergrado\Ecuacionesprimergrado\obj\Debug\Ecuacionesprimergrado.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\Ecuacionesprimergrado\Ecuacionesprimergrado\obj\Debug\Ecuacionesprimergrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\Ecuacionesprimergrado\Ecuacionesprimergrado\obj\Debug\Ecuacionesprimergrado.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\Ecuacionesprimergrado\Ecuacionesprimergrado\bin\Debug\Ecuacionesprimergrado.exe.config
+C:\Users\User\Desktop\Practica1\Ecuacionesprimergrado\Ecuacionesprimergrado\bin\Debug\Ecuacionesprimergrado.exe
+C:\Users\User\Desktop\Practica1\Ecuacionesprimergrado\Ecuacionesprimergrado\bin\Debug\Ecuacionesprimergrado.pdb
+C:\Users\User\Desktop\Practica1\Ecuacionesprimergrado\Ecuacionesprimergrado\obj\Debug\Ecuacionesprimergrado.exe
+C:\Users\User\Desktop\Practica1\Ecuacionesprimergrado\Ecuacionesprimergrado\obj\Debug\Ecuacionesprimergrado.pdb
