@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\Convertidordetemperaturas\Convertidordetemperaturas\bin\Debug\Convertidordetemperaturas.exe.config
+C:\Users\User\Desktop\Practica1\Convertidordetemperaturas\Convertidordetemperaturas\bin\Debug\Convertidordetemperaturas.exe
+C:\Users\User\Desktop\Practica1\Convertidordetemperaturas\Convertidordetemperaturas\bin\Debug\Convertidordetemperaturas.pdb
+C:\Users\User\Desktop\Practica1\Convertidordetemperaturas\Convertidordetemperaturas\obj\Debug\Convertidordetemperaturas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\Convertidordetemperaturas\Convertidordetemperaturas\obj\Debug\Convertidordetemperaturas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\Convertidordetemperaturas\Convertidordetemperaturas\obj\Debug\Convertidordetemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\Convertidordetemperaturas\Convertidordetemperaturas\obj\Debug\Convertidordetemperaturas.exe
+C:\Users\User\Desktop\Practica1\Convertidordetemperaturas\Convertidordetemperaturas\obj\Debug\Convertidordetemperaturas.pdb
