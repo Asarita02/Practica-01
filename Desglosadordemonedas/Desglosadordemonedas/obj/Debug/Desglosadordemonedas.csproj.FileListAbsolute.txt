@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\Desglosadordemonedas\Desglosadordemonedas\bin\Debug\Desglosadordemonedas.exe.config
+C:\Users\User\Desktop\Practica1\Desglosadordemonedas\Desglosadordemonedas\bin\Debug\Desglosadordemonedas.exe
+C:\Users\User\Desktop\Practica1\Desglosadordemonedas\Desglosadordemonedas\bin\Debug\Desglosadordemonedas.pdb
+C:\Users\User\Desktop\Practica1\Desglosadordemonedas\Desglosadordemonedas\obj\Debug\Desglosadordemonedas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\Desglosadordemonedas\Desglosadordemonedas\obj\Debug\Desglosadordemonedas.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\Desglosadordemonedas\Desglosadordemonedas\obj\Debug\Desglosadordemonedas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\Desglosadordemonedas\Desglosadordemonedas\obj\Debug\Desglosadordemonedas.exe
+C:\Users\User\Desktop\Practica1\Desglosadordemonedas\Desglosadordemonedas\obj\Debug\Desglosadordemonedas.pdb
