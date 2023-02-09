@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\Practica1\calculadoradefis\calculadoradefis\obj\Debug\calculadoradefis.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\calculadoradefis\calculadoradefis\obj\Debug\calculadoradefis.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\calculadoradefis\calculadoradefis\obj\Debug\calculadoradefis.csproj.CoreCompileInputs.cache
