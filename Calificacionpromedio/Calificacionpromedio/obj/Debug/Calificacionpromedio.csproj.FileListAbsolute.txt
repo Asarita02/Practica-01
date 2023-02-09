@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Practica1\Calificacionpromedio\Calificacionpromedio\bin\Debug\Calificacionpromedio.exe.config
+C:\Users\User\Desktop\Practica1\Calificacionpromedio\Calificacionpromedio\bin\Debug\Calificacionpromedio.exe
+C:\Users\User\Desktop\Practica1\Calificacionpromedio\Calificacionpromedio\bin\Debug\Calificacionpromedio.pdb
+C:\Users\User\Desktop\Practica1\Calificacionpromedio\Calificacionpromedio\obj\Debug\Calificacionpromedio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Practica1\Calificacionpromedio\Calificacionpromedio\obj\Debug\Calificacionpromedio.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Practica1\Calificacionpromedio\Calificacionpromedio\obj\Debug\Calificacionpromedio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Practica1\Calificacionpromedio\Calificacionpromedio\obj\Debug\Calificacionpromedio.exe
+C:\Users\User\Desktop\Practica1\Calificacionpromedio\Calificacionpromedio\obj\Debug\Calificacionpromedio.pdb
